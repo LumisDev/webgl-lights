@@ -1,0 +1,5 @@
+dist/app.js
+.vscode
+.vs
+.idea
+node_modules

@@ -1,0 +1,9 @@
+[development]
+>=0.25%
+not dead
+last 5 versions
+
+[production]
+>=0.25%
+not dead
+last 10 versions
